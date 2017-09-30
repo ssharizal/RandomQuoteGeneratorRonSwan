@@ -1,3 +1,3 @@
 # RandomQuoteGeneratorRonSwan
 Random JavaScript JSON API Ron Swanson Quote Generator
-https://github.com/ssharizal/web_screenshot1.jpg
+![Web Screen Shot](https://github/ssharizal/RandomQuoteGeneratorRonSwan/web_screenshot1.jpg) 
