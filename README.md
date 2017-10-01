@@ -16,9 +16,6 @@ Returns an array with one quote:
 	"I love nothing."
 ]
 ```
-### HTML and JavaScript file
- - index.html
- - codepen.io version as codepen seems have issue with generator
 
 ![Screen shot](https://github.com/ssharizal/RandomQuoteGeneratorRonSwan/blob/master/web_screenshot1.jpg)
 
